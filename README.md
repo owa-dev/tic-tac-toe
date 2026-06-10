@@ -14,4 +14,4 @@ Things I learned:<br>
 - Acquired an increase in awareness of the UX of the pages that I developed and will develop in the future<br>
 - Assigning of changing variables to use for logic<br>
 
-Live: https://learning-softdev.github.io/tic-tac-toe/
+Live: https://owa-dev.github.io/tic-tac-toe/
